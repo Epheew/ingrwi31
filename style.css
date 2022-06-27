@@ -1,5 +1,5 @@
 body{
-    background: rgb(206, 135, 54);
+    background: rgb(154, 154, 154);
     color:aliceblue;
 }
 
@@ -24,4 +24,21 @@ body{
 .navigation li{
     width: 200px;
 
+}
+h3{
+    color: brown;
+}
+img{
+    margin: 2rem;
+    width: 100%;
+}
+
+article{
+    padding: 1rem;
+    line-height: 2rem;
+}
+
+footer{
+    margin: 2rem;
+    padding: 1rem;
 }
