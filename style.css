@@ -1,3 +1,17 @@
 body{
-    background: cyan;
+    background: rgb(206, 135, 54);
+    color:aliceblue;
+}
+
+.content{
+    display: flex;
+    flex: 1;
+
+}
+.main{
+    width: 90%;
+}
+
+.sidebar{
+    min-width: 20%;
 }
